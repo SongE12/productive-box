@@ -13,5 +13,5 @@ jobs:
         uses: maxam2017/productive-box@master
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          GIST_ID: eb6b1e269d7ca6f6ceff54ef866a708d
+          GIST_ID: https://gist.github.com/SongE12/eb6b1e269d7ca6f6ceff54ef866a708d
           TIMEZONE: Asia/Seoul
